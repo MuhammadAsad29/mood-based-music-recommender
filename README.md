@@ -35,7 +35,7 @@ tracks with genre tags.
 1.  Clone this repository:
 
     ``` bash
-    git clone https://github.com/MuhammadAsad29/mood-based-music-recommender
+    git clone https://github.com/MuhammadAsad29/mood-based-music-recommender.git
     cd music-mood-recommender
     ```
 
